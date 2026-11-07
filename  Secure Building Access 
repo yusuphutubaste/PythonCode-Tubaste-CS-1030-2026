@@ -1,0 +1,8 @@
+if valid card==true
+    print(acess card accepeted)
+    if valid== True
+         print(access granted)
+   else:
+         print(incorrect pin)
+   else:
+       print(invalid access card)

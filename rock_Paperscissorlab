@@ -1,0 +1,10 @@
+if player = r and computer play = s
+    print("player win")
+if player = p and computer  play = r
+    print("player win")
+if player = s and computer  play = p
+   print(player win)
+else:
+    print(computer win)
+if (player == computer )
+    print( draw)
